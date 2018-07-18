@@ -30,10 +30,21 @@ family = {
   :matt => "32"
 }
 
-# Exercise 1
+# =====Exercise 1=====
 
-puts coin_flip
-puts fav_colours[0]
-fam_age[3] = "0"
-puts fam_age.sort
-puts movies[:seven_samurai]
+# puts coin_flip
+# puts fav_colours[0]
+# fam_age[3] = "0"
+# puts fam_age.sort
+# puts movies[:seven_samurai]
+
+# =====Exercise 2=====
+
+puts fav_colours[-1]
+cities[:rome] = "2.9 million"
+puts coin_flip.reverse
+puts cities [:rome]
+
+music_groups.each do |band|
+  puts "#{band} kicks ass! You should check them out!"
+end
