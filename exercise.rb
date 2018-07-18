@@ -1,6 +1,8 @@
+# Arrays and hashes
+
 fav_colours = ["blue", "grey", "maroon"]
 fam_age = ["32" , "31" , "28"]
-coin_flip = ["true", "true", "false", "false", "true"]
+coin_flip = ["true", "true", "false", "true", "false"]
 music_groups = ["radiohead", "aphex twin", "lightning bolt"]
 fav_colours = [:blue, :grey, :maroon]
 
@@ -27,3 +29,11 @@ family = {
   :jon => "31",
   :matt => "32"
 }
+
+# Exercise 1
+
+puts coin_flip
+puts fav_colours[0]
+fam_age[3] = "0"
+puts fam_age.sort
+puts movies[:seven_samurai]
