@@ -61,3 +61,15 @@ family = {
 # puts fam_age.sort.reverse
 
 # =====Exercise 4=====
+
+puts fam_age.min
+puts fam_age.max
+puts coin_flip.count("true")
+
+music_groups.delete("lightning bolt")
+puts music_groups
+
+cities[:toronto] = "3 million"
+puts cities
+
+# =====Exercise 5=====
