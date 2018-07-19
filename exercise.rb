@@ -40,11 +40,24 @@ family = {
 
 # =====Exercise 2=====
 
-puts fav_colours[-1]
-cities[:rome] = "2.9 million"
-puts coin_flip.reverse
-puts cities [:rome]
+# puts fav_colours[-1]
+# cities[:rome] = "2.9 million"
+# puts coin_flip.reverse
+# puts cities [:rome]
+#
+# music_groups.each do |band|
+#   puts "#{band} kicks ass! You should check them out!"
+# end
 
-music_groups.each do |band|
-  puts "#{band} kicks ass! You should check them out!"
-end
+# =====Exercise 3=====
+
+# puts music_groups[0], music_groups[1]
+#
+# movies[:beauty_and_the_beast] = "1991 and 2017"
+# movies.each do |movie, year|
+#   puts "#{movie} came out in #{year}"
+# end
+#
+# puts fam_age.sort.reverse
+
+# =====Exercise 4=====
