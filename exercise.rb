@@ -105,10 +105,19 @@ friends = {
 
 # =====Exercise 6=====
 
-new_movies = {
+# new_movies = {
+#   1999 => ["The Matrix", "Star Wars: Episode 1", "The Mummy"],
+#   2009 => ["Avatar", "Star Trek", "District 9"],
+#   2019 => ["How to Train Your Dragon 3", "Toy Story 4", "Star Wars: Episode 9"]
+# }
+#
+# phone_row = ["1 2 3", "4 5 6", "7 8 9", "* 0 #"]
+#
+# countries = [
+#   {country: "canada", continent: "north_america", island: false}
+#   {country: "australia", continent: "australia", island: true}
+#   {country: "china", continent: "asia", island: false}
+# ]
 
-  1999 => ["The Matrix", "Star Wars: Episode 1", "The Mummy"],
-  2009 => ["Avatar", "Star Trek", "District 9"],
-  2019 => ["How to Train Your Dragon 3", "Toy Story 4", "Star Wars: Episode 9"]
 
-}
+# =====Exercise 7=====
